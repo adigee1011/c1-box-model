@@ -1,0 +1,16 @@
+.border {
+border: red solid 10pt;
+}
+
+.border-long{
+    border-color: red;
+    border-width: 10pt;
+    border-style: dashed;
+}
+
+p{
+    border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+}
