@@ -29,5 +29,7 @@ p{
 .margin-pt {
     border: orange solid 10px;
     padding: 30px;
-    margin: auto;
+    height: 200px;
+    width: 200px;
+    margin: 0%;
 }
