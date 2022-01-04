@@ -19,3 +19,15 @@ p{
     border: blue solid 10pt;
     padding: 25px 50px 75px 100px;
 }
+
+.margin {
+    border: green dashed 10px;
+    padding: 50px;
+    margin: 50px;
+}
+
+.margin-pt {
+    border: orange solid 10px;
+    padding: 30px;
+    margin: auto;
+}
