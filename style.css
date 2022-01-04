@@ -14,3 +14,8 @@ p{
     border-bottom-style: dotted;
     border-left-style: solid;
 }
+
+.padding{
+    border: blue solid 10pt;
+    padding: 25px 50px 75px 100px;
+}
